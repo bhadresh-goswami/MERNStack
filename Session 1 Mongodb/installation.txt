@@ -1,0 +1,5 @@
+Download mongodb:
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+How to work in mongodb compass:
+https://docs.mongodb.com/compass/master/manage-data/
