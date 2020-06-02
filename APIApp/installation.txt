@@ -1,0 +1,9 @@
+//step 1 init the node packages
+//step 2 install nodemon and express
+//step 3 goto package.json
+    /* add following code
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    */
+//step 4 create express js app
